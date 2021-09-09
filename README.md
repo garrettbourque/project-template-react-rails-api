@@ -66,7 +66,7 @@ Add the buildpacks for Heroku to build the React app on Node and run the Rails
 app on Ruby:
 
 ```sh
-heroku buildpacks:add heroku/nodejs --index 1
+ 
 heroku buildpacks:add heroku/ruby --index 2
 ```
 
